@@ -1,1 +1,1 @@
- stock nse
+ stock nse 1
